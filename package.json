@@ -1,0 +1,15 @@
+{
+  "name": "teamsbot",
+  "version": "1.0.0",
+  "description": "Example teams bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "2 + "
+  },
+  "author": "ravya",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  }
+}
