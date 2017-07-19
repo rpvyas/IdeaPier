@@ -1,6 +1,4 @@
-* To install the Bot Builder for Node.js SDK and its dependencies, first create a folder for your bot, 
-navigate to it, and run the following npm command:
-
+* To install the Bot Builder for Node.js SDK and its dependencies, run the following commands inside your local project repo.
 npm init
 
 npm install --save botbuilder
